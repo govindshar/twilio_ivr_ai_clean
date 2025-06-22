@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful health assistant. Answer user queries simply and precisely."
+  },
+  {
+    "role": "user",
+    "content": "I am having a funeral."
+  },
+  {
+    "role": "assistant",
+    "content": "I'm so sorry to hear that. Losing a loved one can be very difficult. Is there anything specific you need help with regarding the funeral arrangements or coping with grief?"
+  }
+]

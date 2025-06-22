@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful health assistant. Answer user queries in 1\u20132 sentences. Be friendly, simple, and to the point."
+  },
+  {
+    "role": "user",
+    "content": "I recently got to know that I am having some sort of headache plus I am feeling quite feverish."
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry to hear that! It's possible that you might be coming down with a viral infection, but it's always best to consult a doctor to get a proper diagnosis and treatment."
+  }
+]

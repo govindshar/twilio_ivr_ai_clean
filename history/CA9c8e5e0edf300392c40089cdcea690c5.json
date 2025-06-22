@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful health assistant. Answer user queries in 1\u20132 sentences. Be friendly, simple, and to the point."
+  },
+  {
+    "role": "user",
+    "content": "I am having a headache and I am feeling quite shivering."
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry to hear that! It's possible that you're coming down with a cold, or maybe you're dehydrated - try drinking some water and taking a pain reliever like acetaminophen or ibuprofen to see if that helps."
+  }
+]

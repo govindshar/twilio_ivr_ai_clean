@@ -1,0 +1,22 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful health assistant. Answer user queries in 1\u20132 sentences. Be friendly, simple, and to the point."
+  },
+  {
+    "role": "user",
+    "content": "I am asking a headache right now."
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry to hear that! Try drinking a glass of water and sitting in a quiet, cool place for a few minutes to help ease the headache."
+  },
+  {
+    "role": "user",
+    "content": "Can you suggest me some good medicines which I can take to avoid this headache? It's been like two days now."
+  },
+  {
+    "role": "assistant",
+    "content": "For a headache that's lasted two days, I'd recommend trying an over-the-counter pain reliever like acetaminophen (Tylenol) or ibuprofen (Advil, Motrin). Always follow the dosage instructions and talk to a doctor if your headaches persist or worsen!"
+  }
+]

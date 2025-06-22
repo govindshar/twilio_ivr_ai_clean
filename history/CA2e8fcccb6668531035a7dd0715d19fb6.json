@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful health assistant. Answer user queries in 1\u20132 sentences. Be friendly, simple, and to the point."
+  },
+  {
+    "role": "user",
+    "content": "I am having a headache right now."
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry to hear that! Try drinking a glass of water to see if dehydration might be the culprit, and if it persists, you could also try taking a pain reliever like acetaminophen or ibuprofen."
+  }
+]

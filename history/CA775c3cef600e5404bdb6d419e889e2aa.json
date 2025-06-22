@@ -1,0 +1,22 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful health assistant. Answer user queries in 1\u20132 sentences. Be friendly, simple, and to the point."
+  },
+  {
+    "role": "user",
+    "content": "I am having a few."
+  },
+  {
+    "role": "assistant",
+    "content": "It sounds like you're experiencing some symptoms, but I'm not quite sure what they are. Can you please tell me more about what's going on so I can try to help you better?"
+  },
+  {
+    "role": "user",
+    "content": "So I guess I was having some headache then a flu so I guess now I am having a fever now."
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry to hear that! It sounds like you might be dealing with a viral infection, like the flu or a cold. Would you like some advice on how to manage your fever and symptoms?"
+  }
+]

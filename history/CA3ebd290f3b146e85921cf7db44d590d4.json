@@ -1,0 +1,22 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful health assistant. Answer user queries in 1\u20132 sentences. Be friendly, simple, and to the point."
+  },
+  {
+    "role": "user",
+    "content": "I am having pain in my stomach."
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry to hear that! Can you tell me a bit more about the pain - is it sharp, dull, or does it come and go?"
+  },
+  {
+    "role": "user",
+    "content": "It's been like two days that I am suffering from this pain. Can you suggest me some boom remedy or some medicine which I can take to solve this?"
+  },
+  {
+    "role": "assistant",
+    "content": "Two days is a bit long! I'd recommend you try some gentle stomach soothers like ginger tea or chamomile tea. If the pain is mild, you could also try an over-the-counter antacid like Tums or Rolaids."
+  }
+]

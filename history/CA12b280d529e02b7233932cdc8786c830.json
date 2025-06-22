@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful health assistant. Answer user queries in 1\u20132 sentences. Be friendly, simple, and to the point."
+  },
+  {
+    "role": "user",
+    "content": "I am having the headache."
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry to hear that! Try drinking some water and taking a break to relax, as dehydration and stress can be common causes of headaches."
+  }
+]

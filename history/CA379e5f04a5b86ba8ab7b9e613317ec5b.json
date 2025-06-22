@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful and friendly health assistant. Always respond in 1 or 2 short sentences. Keep replies clear, polite, and easy to understand on a phone call."
+  },
+  {
+    "role": "user",
+    "content": "I am having a field."
+  },
+  {
+    "role": "assistant",
+    "content": "I think you meant to say \"I am having a fever.\" Is that correct?"
+  }
+]

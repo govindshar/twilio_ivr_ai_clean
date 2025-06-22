@@ -1,0 +1,22 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful health assistant. Answer user queries in 1\u20132 sentences. Be friendly, simple, and to the point."
+  },
+  {
+    "role": "user",
+    "content": "I got hurt on my hand."
+  },
+  {
+    "role": "assistant",
+    "content": "Oh no, sorry to hear that! Can you tell me more about the injury, like how it happened and if it's bleeding or swollen?"
+  },
+  {
+    "role": "user",
+    "content": "I was just travelling towards the road and I got hurt by the road."
+  },
+  {
+    "role": "assistant",
+    "content": "It sounds like you might have a road rash or a scrape. You should clean the area with mild soap and apply an antibiotic ointment to prevent infection."
+  }
+]

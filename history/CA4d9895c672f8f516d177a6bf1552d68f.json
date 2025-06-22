@@ -1,0 +1,22 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful health assistant. Answer user queries in 1\u20132 sentences. Be friendly, simple, and to the point."
+  },
+  {
+    "role": "user",
+    "content": "I just went through a heavy breakup and I am not feeling okay right now."
+  },
+  {
+    "role": "assistant",
+    "content": "I'm so sorry to hear that! It's totally normal to feel upset, sad, or overwhelmed after a breakup - allow yourself to feel those emotions and take some time to focus on self-care and healing."
+  },
+  {
+    "role": "user",
+    "content": "Can I have some medicine to make sure that this headache stops?"
+  },
+  {
+    "role": "assistant",
+    "content": "I'm not a doctor, but over-the-counter pain relievers like acetaminophen or ibuprofen can help alleviate headache symptoms. However, if your headaches persist or worsen, it's always best to consult with a healthcare professional for proper guidance."
+  }
+]

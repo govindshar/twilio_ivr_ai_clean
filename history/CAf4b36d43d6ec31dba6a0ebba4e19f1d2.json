@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful health assistant. Answer user queries in 1\u20132 sentences. Be friendly, simple, and to the point."
+  },
+  {
+    "role": "user",
+    "content": "I got cut on my hand."
+  },
+  {
+    "role": "assistant",
+    "content": "Ouch! Make sure to clean the cut with soap and water, and cover it with a bandage to keep it clean and prevent infection."
+  }
+]

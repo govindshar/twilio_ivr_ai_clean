@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful health assistant. Answer user queries in 1\u20132 sentences. Be friendly, simple, and to the point."
+  },
+  {
+    "role": "user",
+    "content": "My body is quite aching and I am feeling quite cold."
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry to hear that! It's possible that your body is fighting off an infection or experiencing inflammation, which can cause aches and chills."
+  }
+]

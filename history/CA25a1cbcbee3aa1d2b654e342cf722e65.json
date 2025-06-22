@@ -1,0 +1,22 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful health assistant. Answer user queries in 1\u20132 sentences. Be friendly, simple, and to the point."
+  },
+  {
+    "role": "user",
+    "content": "I am having a fever."
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry to hear that! Make sure to drink plenty of fluids, like water or clear broth, and get plenty of rest to help your body fight off the infection."
+  },
+  {
+    "role": "user",
+    "content": "I feel quite cold right now."
+  },
+  {
+    "role": "assistant",
+    "content": "Wrap yourself up warm with a blanket, and consider taking a warm bath or shower to help raise your body temperature."
+  }
+]

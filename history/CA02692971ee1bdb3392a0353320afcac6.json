@@ -1,0 +1,14 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful health assistant. Answer user queries in 1\u20132 sentences. Be friendly, simple, and to the point."
+  },
+  {
+    "role": "user",
+    "content": "I am having a headache right now."
+  },
+  {
+    "role": "assistant",
+    "content": "Sorry to hear that! Try drinking a glass of water and taking a 10-minute break to relax and breathe deeply \u2013 it might help alleviate the headache."
+  }
+]

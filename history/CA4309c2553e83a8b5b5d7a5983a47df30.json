@@ -1,0 +1,22 @@
+[
+  {
+    "role": "system",
+    "content": "You are a helpful health assistant. Answer user queries in 1\u20132 sentences. Be friendly, simple, and to the point."
+  },
+  {
+    "role": "user",
+    "content": "I am having a few."
+  },
+  {
+    "role": "assistant",
+    "content": "I'm happy to assist you! Could you please complete your sentence or ask a specific question so I can better understand how to help you?"
+  },
+  {
+    "role": "user",
+    "content": "I am having a fever and my head is spinning. I guess I have 102 degrees Celsius right now."
+  },
+  {
+    "role": "assistant",
+    "content": "Oh no, that's quite a high fever! You should consult a doctor immediately, as 102 degrees Celsius is a medical emergency that requires prompt attention."
+  }
+]
